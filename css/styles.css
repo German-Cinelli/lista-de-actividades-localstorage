@@ -1,0 +1,12 @@
+body {
+    background-color: #001725;
+    color: #fff;
+}
+
+.black-color {
+    color: #000;
+}
+
+#vue1, #vue2 {
+    display: none;
+}
